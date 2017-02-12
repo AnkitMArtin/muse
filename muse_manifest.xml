@@ -1,0 +1,48 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="CHAISUTTA.COM" resolutions="1x" timestamp="1483089452363">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="164498606" ref="index"/>
+    <file name="index.css" crc="3906412679" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="form_check.php" crc="474517188" ref="index"/>
+    <file name="form_throttle.php" crc="495784356" ref="index"/>
+    <file name="form_process.php" crc="4149049960" ref="index"/>
+    <file name="form-u591.php" crc="4202525989" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u82-grad.png" crc="4253382081" ref="index"/>
+    <file name="person-woman-coffee-cup.jpg" crc="449333168" ref="index"/>
+    <file name="tea-cup-(1).svg" crc="4002333887" seo="true" ref="index"/>
+    <file name="tea-cup (1)_poster_.png" crc="187453653" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1859-4.png" crc="3869005383" ref="index"/>
+    <file name="u542-grad.png" crc="4290340720" ref="index"/>
+    <file name="u545-4.png" crc="277624962" ref="index"/>
+    <file name="photo.jpg" crc="4023803774" ref="index"/>
+    <file name="16-ema-dimitrova.jpg" crc="4234652707" ref="index"/>
+    <file name="u558-grad.png" crc="438889026" ref="index"/>
+    <file name="u567-4.png" crc="3815589409" ref="index"/>
+    <file name="pexels-photo-173382.jpg" crc="37960920" ref="index"/>
+    <file name="pexels-photo-62097.jpg" crc="308022677" ref="index"/>
+    <file name="u588-4.png" crc="4109515276" ref="index"/>
+    <file name="u599-17.png" crc="531692939" ref="index"/>
+    <file name="u599-17-r.png" crc="181793215" ref="index"/>
+    <file name="u599-17-m.png" crc="4021617159" ref="index"/>
+    <file name="u599-17-fs.png" crc="4183248457" ref="index"/>
+    <file name="u643-grad.png" crc="395657658" ref="index"/>
+    <file name="u736-12.png" crc="221305848" ref="index"/>
+  </folder>
+  <file name="index.html" crc="311419492" seo="true" mt="1483089388207" redirect="true"/>
+</manifest>
